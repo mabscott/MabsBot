@@ -1,0 +1,6 @@
+[flake8]
+max-complexity = 7
+max-line-length = 120
+# ignore = E303,E309,W503
+exclude = .git,*migrations*
+
